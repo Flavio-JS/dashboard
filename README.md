@@ -37,3 +37,5 @@ O layout é construído com base em **HTML5**, **CSS3**, e utiliza **Material Ic
 - Fonts: Lato, Oswald, e Roboto
 
 # Desenvolvido por Flávio JS.
+
+![dashboard](https://github.com/user-attachments/assets/3d332dff-ee97-4311-83b3-04b3701ea700)
