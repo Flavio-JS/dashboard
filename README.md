@@ -22,7 +22,7 @@ O layout é construído com base em **HTML5**, **CSS3**, e utiliza **Material Ic
 
 1. Clone o repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/seuusuario/dashboard.git
+   git clone https://github.com/Flavio-JS/dashboard.git
    ```
 2. Navegue até o diretório do projeto:
   ```bash
